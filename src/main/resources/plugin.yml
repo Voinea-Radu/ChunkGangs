@@ -1,0 +1,14 @@
+name: ChunkGangs
+version: ${project.version}
+main: dev.lightdream.chunkgangs.GangsPlugin
+commands:
+  allychat:
+    description: NA
+  gang:
+    description: NA
+  fight:
+    description: NA
+  gangadmin:
+    description: NA
+  gangchat:
+    description: NA
